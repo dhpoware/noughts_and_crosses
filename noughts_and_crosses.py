@@ -19,7 +19,7 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-"""Naughts and Crosses implementation for a single player versus a computer ai."""
+"""Noughts and Crosses implementation for a single player versus a computer ai."""
 
 import copy
 import random
